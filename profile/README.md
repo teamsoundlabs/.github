@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/teamsoundlabs"><img src="https://github.com/teamsoundlabs/.github/assets/123055696/da727ea2-1f4a-40a0-8949-c11511b6fe9d" width="500px"></a>
-  <p>Creating high quality integration since <em>2024</em>.</p>
+  <p>Creating high quality integrations since <em>2024</em>.</p>
 
   <br>
   
