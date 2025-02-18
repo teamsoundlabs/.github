@@ -22,8 +22,8 @@
 | 📦 Repository                                            | 📃 Description                                   | 👥 Maintainer(s)                             | 🏷 State            |
 |-------------------------------------------------------|-------------------------------------------------|----------------------------------------------|---------------------|
 | [wavezone](https://github.com/teamsoundlabs/wavezone) | Our in-house radio streaming bot for Revolt.    | [@notaussie](https://github.com/notaussie) | _Halted_              |
-| [butterfly](https://github.com/teamsoundlabs/butterfly) | A Bluesky bridge for Revolt.                    | [@notaussie](https://github.com/notaussie) | _In development_     |
-| ~~[nexus](https://github.com/teamsoundlabs/nexus)~~   | Our archived Guilded bot template.              | _None_                                      | _Archived_            |
+| [butterfly](https://github.com/teamsoundlabs/butterfly) | A Bluesky bridge for Revolt.                    | [@notaussie](https://github.com/notaussie) | _Halted_            |
+| ~~[nexus](https://github.com/teamsoundlabs/nexus)~~   | Our archived Guilded bot template.              | _None_                                      | _Archived_           |
 
 
 # Team members 👥
